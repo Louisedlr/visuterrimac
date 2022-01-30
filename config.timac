@@ -1,0 +1,9 @@
+heightmap_file image128x128.ppm
+xsize 200
+ysize 200
+zmin 0
+zmax 20
+znear 1
+zfar 200
+fov 60
+
